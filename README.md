@@ -1,3 +1,3 @@
 # Apanacollege-demo
 This is my First git Repository 
-Sudiksha patil
+ Author-Sudiksha patil
